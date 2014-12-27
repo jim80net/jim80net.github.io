@@ -1,0 +1,12 @@
+# Site settings
+title: jim80net
+email: blog@jim80.net
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of thoughts and tools on systems and technology. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.jim80.net" # the base hostname & protocol for your site
+twitter_username: jim80net
+github_username:  jim80net
+
+# Build settings
+markdown: kramdown
